@@ -17,13 +17,13 @@ programa
     
     se(media < 5)
     {
-      escreva("O Aluno está de recuperação")
-      escreva("Nota necessária: ", 10 - media + 2)           
+      escreva("O Aluno estÃ¡ de recuperaÃ§Ã£o")
+      escreva("Nota necessÃ¡ria: ", 10 - media + 2)           
     }
     senao se(media < 7)
     {
-        escreva("Aluno está de prova final ")
-        escreva("Nota necessária: ", 10 - media + 2)     
+        escreva("Aluno estÃ¡ de prova final ")
+        escreva("Nota necessÃ¡ria: ", 10 - media + 2)     
     }
     senao
     {
