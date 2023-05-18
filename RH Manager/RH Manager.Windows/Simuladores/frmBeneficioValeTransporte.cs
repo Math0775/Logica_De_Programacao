@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace RH_Manager.Windows
+namespace RH_Manager.Windows.Simuladores
 {
-    public partial class Form1 : Form
+    public partial class frmBeneficioValeTransporte : Form
     {
-        public Form1()
+        public frmBeneficioValeTransporte()
         {
             InitializeComponent();
         }
